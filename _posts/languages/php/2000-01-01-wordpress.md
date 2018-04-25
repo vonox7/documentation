@@ -6,6 +6,10 @@ tags: php, http, framework, wordpress, deployment
 index: 99
 ---
 
+## One-Click deploy
+
+Scalingo provides a one-click deploy solution to host a WordPress distribution. Follow the instructions [here](https://github.com/Scalingo/scalingo-wordpress). 
+
 ## Detection
 
 When a PHP application is deployed, we're looking if the `wp-settings.php` file
